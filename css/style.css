@@ -3,7 +3,9 @@
 :root {
     background-color: lightblue;
 }
-
+body {
+    margin: 2.5em;
+}
 nav > ul {
     display: flex;
     /* flex-direction: row; */
