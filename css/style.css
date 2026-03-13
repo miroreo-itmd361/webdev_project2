@@ -8,3 +8,9 @@ nav > ul > li {
     margin-left: 2em;
     margin-right: 2em;
 }
+
+main {
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+}
